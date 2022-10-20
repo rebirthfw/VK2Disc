@@ -1,0 +1,32 @@
+{
+	"clusters": [
+		{
+			"vk": {
+				"token": "сюда токен",
+				"group_id": "club139358441",
+				"keywords": [],
+				"words_blacklist": [],
+				"filter": true,
+				"donut": false,
+				"ads": false,
+				"interval": 30
+
+			},	
+			"discord": {
+				"webhook_urls": [
+					"тут вебхук"
+				],
+				"username": "Феникс",
+				"avatar_url": "",
+				"content": "<@&945603722346635264>**, обрати внимание, вышел новый пост.** ",
+				"color": "#FF8C00",
+				"author": true,
+				"copyright": true,
+				"date": true,
+				"exclude_content": []
+			}
+		}
+	],
+	"version_dont_modify_me": 5
+}
+
